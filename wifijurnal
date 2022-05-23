@@ -1,0 +1,1000 @@
+May 23 14:39:45 server NetworkManager[337812]: <info>  [1653291585.8171] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:39:56 server NetworkManager[337812]: <info>  [1653291596.0452] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 14:40:07 server NetworkManager[337812]: <warn>  [1653291607.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 14:40:07 server NetworkManager[337812]: <info>  [1653291607.9681] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 14:40:08 server NetworkManager[337812]: <info>  [1653291608.3766] device (wlp1s0): set-hw-addr: set MAC address to 76:75:22:78:E9:75 (scanning)
+May 23 14:40:08 server NetworkManager[337812]: <warn>  [1653291608.6057] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 14:40:08 server NetworkManager[337812]: <info>  [1653291608.6066] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 14:40:08 server NetworkManager[337812]: <info>  [1653291608.6081] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 14:40:08 server NetworkManager[337812]: <info>  [1653291608.6216] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:45:08 server NetworkManager[337812]: <info>  [1653291908.9909] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 14:45:08 server NetworkManager[337812]: <info>  [1653291908.9942] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:45:09 server NetworkManager[337812]: <info>  [1653291909.2451] device (wlp1s0): set-hw-addr: set-cloned MAC address to 82:95:42:87:DC:28 (random)
+May 23 14:45:09 server NetworkManager[337812]: <info>  [1653291909.4772] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:45:09 server NetworkManager[337812]: <info>  [1653291909.4778] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 14:45:09 server NetworkManager[337812]: <info>  [1653291909.4778] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 14:45:09 server NetworkManager[337812]: <info>  [1653291909.4786] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 14:45:09 server NetworkManager[337812]: <info>  [1653291909.4857] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:45:09 server NetworkManager[337812]: <info>  [1653291909.4860] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:45:09 server NetworkManager[337812]: <info>  [1653291909.4865] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:45:09 server NetworkManager[337812]: <info>  [1653291909.4871] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 14:45:09 server NetworkManager[337812]: <info>  [1653291909.5573] device (wlp1s0): supplicant interface state: inactive -> scanning
+May 23 14:45:11 server NetworkManager[337812]: <info>  [1653291911.3140] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 14:45:14 server NetworkManager[337812]: <info>  [1653291914.8408] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:45:25 server NetworkManager[337812]: <info>  [1653291925.0633] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 14:45:26 server NetworkManager[337812]: <info>  [1653291926.8272] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 14:45:29 server NetworkManager[337812]: <info>  [1653291929.7938] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:45:34 server NetworkManager[337812]: <warn>  [1653291934.9679] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 14:45:34 server NetworkManager[337812]: <info>  [1653291934.9680] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 14:45:35 server NetworkManager[337812]: <info>  [1653291935.2296] device (wlp1s0): set-hw-addr: set MAC address to 5E:5B:C4:5D:5E:35 (scanning)
+May 23 14:45:35 server NetworkManager[337812]: <warn>  [1653291935.4613] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 14:45:35 server NetworkManager[337812]: <info>  [1653291935.4622] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 14:45:35 server NetworkManager[337812]: <info>  [1653291935.4636] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 14:45:35 server NetworkManager[337812]: <info>  [1653291935.4790] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.2353] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.2355] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.2397] device (wlp1s0): set-hw-addr: set-cloned MAC address to BE:34:A1:E9:09:32 (random)
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.7079] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.7084] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.7084] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.7178] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.7183] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.7188] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.7231] device (wlp1s0): supplicant interface state: inactive -> disconnected
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.7272] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 14:45:37 server NetworkManager[337812]: <info>  [1653291937.7850] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 14:45:40 server NetworkManager[337812]: <info>  [1653291940.8236] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:45:51 server NetworkManager[337812]: <info>  [1653291951.0552] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 14:46:02 server NetworkManager[337812]: <warn>  [1653291962.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 14:46:02 server NetworkManager[337812]: <info>  [1653291962.9681] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 14:46:03 server NetworkManager[337812]: <info>  [1653291963.2016] device (wlp1s0): set-hw-addr: set MAC address to 92:EA:6B:B7:11:F1 (scanning)
+May 23 14:46:03 server NetworkManager[337812]: <warn>  [1653291963.4286] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 14:46:03 server NetworkManager[337812]: <info>  [1653291963.4289] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 14:46:03 server NetworkManager[337812]: <info>  [1653291963.4296] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:03 server NetworkManager[337812]: <info>  [1653291963.4425] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.2236] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.2239] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.2266] device (wlp1s0): set-hw-addr: set-cloned MAC address to 12:14:FB:F3:B6:DF (random)
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.4544] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.4550] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.4550] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.4558] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.4578] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.4585] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.4590] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.4674] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:46:05 server NetworkManager[337812]: <info>  [1653291965.5248] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 14:46:08 server NetworkManager[337812]: <info>  [1653291968.7908] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:46:19 server NetworkManager[337812]: <info>  [1653291979.0192] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 14:46:30 server NetworkManager[337812]: <warn>  [1653291990.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 14:46:30 server NetworkManager[337812]: <info>  [1653291990.9681] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 14:46:31 server NetworkManager[337812]: <info>  [1653291991.3713] device (wlp1s0): set-hw-addr: set MAC address to 3E:1F:52:CD:30:7C (scanning)
+May 23 14:46:31 server NetworkManager[337812]: <warn>  [1653291991.6052] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 14:46:31 server NetworkManager[337812]: <info>  [1653291991.6055] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 14:46:31 server NetworkManager[337812]: <info>  [1653291991.6060] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:31 server NetworkManager[337812]: <info>  [1653291991.6085] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.3719] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.3720] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.3836] device (wlp1s0): set-hw-addr: set-cloned MAC address to 26:FC:41:D3:09:C2 (random)
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.6190] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.6196] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.6196] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.6208] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.6256] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.6263] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.6324] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.6332] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:46:33 server NetworkManager[337812]: <info>  [1653291993.6753] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 14:46:36 server NetworkManager[337812]: <info>  [1653291996.8236] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:46:47 server NetworkManager[337812]: <info>  [1653292007.0500] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 14:46:48 server NetworkManager[337812]: <info>  [1653292008.8107] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 14:46:51 server NetworkManager[337812]: <info>  [1653292011.7992] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:46:58 server NetworkManager[337812]: <warn>  [1653292018.9679] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 14:46:58 server NetworkManager[337812]: <info>  [1653292018.9680] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 14:46:59 server NetworkManager[337812]: <info>  [1653292019.3084] device (wlp1s0): set-hw-addr: set MAC address to C2:5C:24:13:73:EE (scanning)
+May 23 14:46:59 server NetworkManager[337812]: <warn>  [1653292019.5421] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 14:46:59 server NetworkManager[337812]: <info>  [1653292019.5430] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 14:46:59 server NetworkManager[337812]: <info>  [1653292019.5441] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:46:59 server NetworkManager[337812]: <info>  [1653292019.5548] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 14:53:43 server NetworkManager[337812]: <info>  [1653292423.2984] device (wlp1s0): set-hw-addr: set MAC address to 96:DB:FF:F4:EA:4F (scanning)
+May 23 14:53:43 server NetworkManager[337812]: <info>  [1653292423.5315] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 14:53:43 server NetworkManager[337812]: <info>  [1653292423.5331] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.3028] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.3067] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.3209] device (wlp1s0): set-hw-addr: set-cloned MAC address to 06:5D:F4:BE:DE:4A (random)
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.5549] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.5587] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.5596] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.5623] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.5634] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.5769] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.5808] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.5837] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 14:53:45 server NetworkManager[337812]: <info>  [1653292425.6192] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 14:53:48 server NetworkManager[337812]: <info>  [1653292428.7960] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:53:59 server NetworkManager[337812]: <info>  [1653292439.0248] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 14:54:10 server NetworkManager[337812]: <warn>  [1653292450.9717] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 14:54:10 server NetworkManager[337812]: <info>  [1653292450.9733] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 14:54:11 server NetworkManager[337812]: <info>  [1653292451.2176] device (wlp1s0): set-hw-addr: set MAC address to 9E:A8:E0:EF:B4:5D (scanning)
+May 23 14:54:11 server NetworkManager[337812]: <warn>  [1653292451.4460] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 14:54:11 server NetworkManager[337812]: <info>  [1653292451.4473] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 14:54:11 server NetworkManager[337812]: <info>  [1653292451.4549] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:54:11 server NetworkManager[337812]: <info>  [1653292451.4626] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.2188] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.2192] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.2237] device (wlp1s0): set-hw-addr: set-cloned MAC address to CA:69:81:19:8A:7C (random)
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.4602] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.4623] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.4630] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.4648] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.4660] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.4685] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.4702] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.4715] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 14:54:13 server NetworkManager[337812]: <info>  [1653292453.5227] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 14:54:16 server NetworkManager[337812]: <info>  [1653292456.7908] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:54:27 server NetworkManager[337812]: <info>  [1653292467.0185] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 14:54:28 server NetworkManager[337812]: <info>  [1653292468.7780] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 14:54:31 server NetworkManager[337812]: <info>  [1653292471.8018] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:54:38 server NetworkManager[337812]: <warn>  [1653292478.9683] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 14:54:38 server NetworkManager[337812]: <info>  [1653292478.9684] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 14:54:39 server NetworkManager[337812]: <info>  [1653292479.2060] device (wlp1s0): set-hw-addr: set MAC address to EE:C5:24:89:DF:36 (scanning)
+May 23 14:54:39 server NetworkManager[337812]: <warn>  [1653292479.4347] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 14:54:39 server NetworkManager[337812]: <info>  [1653292479.4349] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 14:54:39 server NetworkManager[337812]: <info>  [1653292479.4354] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:39 server NetworkManager[337812]: <info>  [1653292479.4422] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.2074] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.2094] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.2206] device (wlp1s0): set-hw-addr: set-cloned MAC address to 56:4B:18:BA:5E:A3 (random)
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.4566] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.4585] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.4586] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.4599] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.4620] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.4639] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.4673] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.4690] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:54:41 server NetworkManager[337812]: <info>  [1653292481.5166] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 14:54:44 server NetworkManager[337812]: <info>  [1653292484.8066] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:54:55 server NetworkManager[337812]: <info>  [1653292495.0305] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 14:55:06 server NetworkManager[337812]: <warn>  [1653292506.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 14:55:06 server NetworkManager[337812]: <info>  [1653292506.9681] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 14:55:07 server NetworkManager[337812]: <info>  [1653292507.3765] device (wlp1s0): set-hw-addr: set MAC address to FA:A8:47:AA:FB:4F (scanning)
+May 23 14:55:07 server NetworkManager[337812]: <warn>  [1653292507.6072] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 14:55:07 server NetworkManager[337812]: <info>  [1653292507.6090] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 14:55:07 server NetworkManager[337812]: <info>  [1653292507.6173] device (wlp1s0): supplicant interface state: scanning -> disconnected
+May 23 14:55:07 server NetworkManager[337812]: <info>  [1653292507.6202] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.3738] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.3768] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.3872] device (wlp1s0): set-hw-addr: set-cloned MAC address to 52:5D:80:62:D3:82 (random)
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.6168] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.6199] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.6206] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.6219] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.6343] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.6455] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.6466] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.6492] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 14:55:09 server NetworkManager[337812]: <info>  [1653292509.7029] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 14:55:12 server NetworkManager[337812]: <info>  [1653292512.7922] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:55:23 server NetworkManager[337812]: <info>  [1653292523.0147] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 14:55:24 server NetworkManager[337812]: <info>  [1653292524.7699] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 14:55:27 server NetworkManager[337812]: <info>  [1653292527.8170] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 14:55:34 server NetworkManager[337812]: <warn>  [1653292534.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 14:55:34 server NetworkManager[337812]: <info>  [1653292534.9681] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 14:55:35 server NetworkManager[337812]: <info>  [1653292535.1994] device (wlp1s0): set-hw-addr: set MAC address to 46:18:B4:F9:EA:15 (scanning)
+May 23 14:55:35 server NetworkManager[337812]: <warn>  [1653292535.4294] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 14:55:35 server NetworkManager[337812]: <info>  [1653292535.4384] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 14:55:35 server NetworkManager[337812]: <info>  [1653292535.4486] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 15:02:21 server NetworkManager[337812]: <info>  [1653292941.2947] device (wlp1s0): set-hw-addr: set MAC address to 52:DD:C0:CD:37:EF (scanning)
+May 23 15:02:21 server NetworkManager[337812]: <info>  [1653292941.5226] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:02:21 server NetworkManager[337812]: <info>  [1653292941.5305] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.2928] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.2930] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.3004] device (wlp1s0): set-hw-addr: set-cloned MAC address to 4A:30:8C:DF:2A:40 (random)
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.7820] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.7827] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.7828] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.7835] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.7935] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.7943] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.7949] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.7954] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:02:23 server NetworkManager[337812]: <info>  [1653292943.8494] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:02:26 server NetworkManager[337812]: <info>  [1653292946.8412] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:02:37 server NetworkManager[337812]: <info>  [1653292957.0674] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:02:45 server NetworkManager[337812]: <info>  [1653292965.8122] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:02:48 server NetworkManager[337812]: <info>  [1653292968.7906] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:02:48 server NetworkManager[337812]: <warn>  [1653292968.9673] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:02:48 server NetworkManager[337812]: <info>  [1653292968.9674] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:02:49 server NetworkManager[337812]: <info>  [1653292969.3051] device (wlp1s0): set-hw-addr: set MAC address to 1A:71:E4:C0:28:59 (scanning)
+May 23 15:02:49 server NetworkManager[337812]: <warn>  [1653292969.5347] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:02:49 server NetworkManager[337812]: <info>  [1653292969.5355] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:02:49 server NetworkManager[337812]: <info>  [1653292969.5492] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.3100] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.3119] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.3218] device (wlp1s0): set-hw-addr: set-cloned MAC address to A6:8B:6B:78:AD:A3 (random)
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.5510] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.5516] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.5516] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.5524] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.5551] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.5560] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.5565] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.5634] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:02:51 server NetworkManager[337812]: <info>  [1653292971.6113] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:02:54 server NetworkManager[337812]: <info>  [1653292974.8003] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:03:05 server NetworkManager[337812]: <info>  [1653292985.0209] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:03:16 server NetworkManager[337812]: <warn>  [1653292996.9684] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:03:16 server NetworkManager[337812]: <info>  [1653292996.9689] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:03:17 server NetworkManager[337812]: <info>  [1653292997.2164] device (wlp1s0): set-hw-addr: set MAC address to 96:B5:F0:D3:F2:70 (scanning)
+May 23 15:03:17 server NetworkManager[337812]: <warn>  [1653292997.4444] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:03:17 server NetworkManager[337812]: <info>  [1653292997.4447] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 15:03:17 server NetworkManager[337812]: <info>  [1653292997.4452] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:17 server NetworkManager[337812]: <info>  [1653292997.4545] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.2171] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.2173] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.2204] device (wlp1s0): set-hw-addr: set-cloned MAC address to 9E:4D:D7:2B:07:F2 (random)
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.7000] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.7005] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.7006] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.7045] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.7089] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.7095] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.7101] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.7168] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:03:19 server NetworkManager[337812]: <info>  [1653292999.7660] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:03:22 server NetworkManager[337812]: <info>  [1653293002.8401] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:03:33 server NetworkManager[337812]: <info>  [1653293013.0622] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:03:34 server NetworkManager[337812]: <info>  [1653293014.8426] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:03:37 server NetworkManager[337812]: <info>  [1653293017.8128] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:03:44 server NetworkManager[337812]: <warn>  [1653293024.9685] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:03:44 server NetworkManager[337812]: <info>  [1653293024.9688] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:03:45 server NetworkManager[337812]: <info>  [1653293025.2184] device (wlp1s0): set-hw-addr: set MAC address to 92:55:0F:15:CD:7D (scanning)
+May 23 15:03:45 server NetworkManager[337812]: <warn>  [1653293025.4484] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:03:45 server NetworkManager[337812]: <info>  [1653293025.4512] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:03:45 server NetworkManager[337812]: <info>  [1653293025.4527] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:03:45 server NetworkManager[337812]: <info>  [1653293025.4549] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.2132] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.2135] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.2265] device (wlp1s0): set-hw-addr: set-cloned MAC address to 96:3E:08:01:BE:6A (random)
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.6950] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.6955] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.6955] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.7028] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.7045] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.7050] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.7055] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.7100] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:03:47 server NetworkManager[337812]: <info>  [1653293027.7778] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:03:50 server NetworkManager[337812]: <info>  [1653293030.8086] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:04:01 server NetworkManager[337812]: <info>  [1653293041.0380] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:04:12 server NetworkManager[337812]: <warn>  [1653293052.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:04:12 server NetworkManager[337812]: <info>  [1653293052.9681] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:04:13 server NetworkManager[337812]: <info>  [1653293053.2728] device (wlp1s0): set-hw-addr: set MAC address to 62:5D:81:E9:A0:FC (scanning)
+May 23 15:04:13 server NetworkManager[337812]: <warn>  [1653293053.5023] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:04:13 server NetworkManager[337812]: <info>  [1653293053.5032] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 15:04:13 server NetworkManager[337812]: <info>  [1653293053.5046] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:04:13 server NetworkManager[337812]: <info>  [1653293053.5188] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:09:13 server NetworkManager[337812]: <info>  [1653293353.9820] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:09:13 server NetworkManager[337812]: <info>  [1653293353.9822] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:09:14 server NetworkManager[337812]: <info>  [1653293354.4451] device (wlp1s0): set-hw-addr: set-cloned MAC address to 5E:F6:E5:63:0E:AB (random)
+May 23 15:09:14 server NetworkManager[337812]: <info>  [1653293354.7054] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:09:14 server NetworkManager[337812]: <info>  [1653293354.7064] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:09:14 server NetworkManager[337812]: <info>  [1653293354.7064] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:09:14 server NetworkManager[337812]: <info>  [1653293354.7181] device (wlp1s0): supplicant interface state: inactive -> disconnected
+May 23 15:09:14 server NetworkManager[337812]: <info>  [1653293354.7204] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 15:09:14 server NetworkManager[337812]: <info>  [1653293354.7229] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:09:14 server NetworkManager[337812]: <info>  [1653293354.7276] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:09:14 server NetworkManager[337812]: <info>  [1653293354.7298] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:09:14 server NetworkManager[337812]: <info>  [1653293354.7782] device (wlp1s0): supplicant interface state: inactive -> scanning
+May 23 15:09:16 server NetworkManager[337812]: <info>  [1653293356.5385] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:09:19 server NetworkManager[337812]: <info>  [1653293359.8282] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:09:30 server NetworkManager[337812]: <info>  [1653293370.2797] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:09:32 server NetworkManager[337812]: <info>  [1653293372.0440] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:09:34 server NetworkManager[337812]: <info>  [1653293374.8093] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:09:39 server NetworkManager[337812]: <warn>  [1653293379.9692] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:09:39 server NetworkManager[337812]: <info>  [1653293379.9694] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:09:40 server NetworkManager[337812]: <info>  [1653293380.2095] device (wlp1s0): set-hw-addr: set MAC address to A2:E7:E8:6B:65:43 (scanning)
+May 23 15:09:40 server NetworkManager[337812]: <warn>  [1653293380.4376] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:09:40 server NetworkManager[337812]: <info>  [1653293380.4403] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:09:40 server NetworkManager[337812]: <info>  [1653293380.4415] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:09:40 server NetworkManager[337812]: <info>  [1653293380.4429] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.2087] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.2089] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.2136] device (wlp1s0): set-hw-addr: set-cloned MAC address to 9A:E7:61:63:CD:68 (random)
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.6964] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.6970] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.6970] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.6993] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.7022] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.7063] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.7091] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.7143] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:09:42 server NetworkManager[337812]: <info>  [1653293382.7607] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:09:45 server NetworkManager[337812]: <info>  [1653293385.8167] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:09:56 server NetworkManager[337812]: <info>  [1653293396.0414] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:09:57 server NetworkManager[337812]: <info>  [1653293397.8018] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:10:00 server NetworkManager[337812]: <info>  [1653293400.7848] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:10:07 server NetworkManager[337812]: <warn>  [1653293407.9681] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:10:07 server NetworkManager[337812]: <info>  [1653293407.9682] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:10:08 server NetworkManager[337812]: <info>  [1653293408.2058] device (wlp1s0): set-hw-addr: set MAC address to 6E:44:3B:2C:B9:9C (scanning)
+May 23 15:10:08 server NetworkManager[337812]: <warn>  [1653293408.4342] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:10:08 server NetworkManager[337812]: <info>  [1653293408.4356] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:10:08 server NetworkManager[337812]: <info>  [1653293408.4370] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:08 server NetworkManager[337812]: <info>  [1653293408.4436] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.2078] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.2100] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.2193] device (wlp1s0): set-hw-addr: set-cloned MAC address to E2:15:D6:BA:87:73 (random)
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.4483] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.4500] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.4516] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.4545] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.4612] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.4655] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.4694] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.4713] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:10:10 server NetworkManager[337812]: <info>  [1653293410.5257] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:10:13 server NetworkManager[337812]: <info>  [1653293413.7826] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:10:24 server NetworkManager[337812]: <info>  [1653293424.0057] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:10:35 server NetworkManager[337812]: <warn>  [1653293435.9689] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:10:35 server NetworkManager[337812]: <info>  [1653293435.9692] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:10:36 server NetworkManager[337812]: <info>  [1653293436.2100] device (wlp1s0): set-hw-addr: set MAC address to 56:E6:39:D5:E9:A3 (scanning)
+May 23 15:10:36 server NetworkManager[337812]: <warn>  [1653293436.4374] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:10:36 server NetworkManager[337812]: <info>  [1653293436.4377] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 15:10:36 server NetworkManager[337812]: <info>  [1653293436.4382] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:36 server NetworkManager[337812]: <info>  [1653293436.4538] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.2112] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.2114] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.2140] device (wlp1s0): set-hw-addr: set-cloned MAC address to FE:3D:ED:73:1B:55 (random)
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.5435] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.5474] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.5484] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.5532] device (wlp1s0): supplicant interface state: inactive -> disconnected
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.5572] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.5702] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.5774] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.5790] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:10:38 server NetworkManager[337812]: <info>  [1653293438.6418] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:10:41 server NetworkManager[337812]: <info>  [1653293441.8167] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:10:52 server NetworkManager[337812]: <info>  [1653293452.0488] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:11:03 server NetworkManager[337812]: <warn>  [1653293463.9727] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:11:03 server NetworkManager[337812]: <info>  [1653293463.9765] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:11:04 server NetworkManager[337812]: <info>  [1653293464.2128] device (wlp1s0): set-hw-addr: set MAC address to 96:F4:1E:FB:AE:80 (scanning)
+May 23 15:11:04 server NetworkManager[337812]: <warn>  [1653293464.4410] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:11:04 server NetworkManager[337812]: <info>  [1653293464.4424] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 15:11:04 server NetworkManager[337812]: <info>  [1653293464.4440] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:11:04 server NetworkManager[337812]: <info>  [1653293464.4469] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:16:04 server NetworkManager[337812]: <info>  [1653293764.9889] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:16:04 server NetworkManager[337812]: <info>  [1653293764.9914] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:05 server NetworkManager[337812]: <info>  [1653293765.2395] device (wlp1s0): set-hw-addr: set-cloned MAC address to D2:BB:78:59:46:F0 (random)
+May 23 15:16:05 server NetworkManager[337812]: <info>  [1653293765.7314] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:05 server NetworkManager[337812]: <info>  [1653293765.7324] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:16:05 server NetworkManager[337812]: <info>  [1653293765.7324] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:05 server NetworkManager[337812]: <info>  [1653293765.7362] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:16:05 server NetworkManager[337812]: <info>  [1653293765.7409] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:16:05 server NetworkManager[337812]: <info>  [1653293765.7433] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:05 server NetworkManager[337812]: <info>  [1653293765.7501] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:05 server NetworkManager[337812]: <info>  [1653293765.7527] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:16:05 server NetworkManager[337812]: <info>  [1653293765.8031] device (wlp1s0): supplicant interface state: inactive -> scanning
+May 23 15:16:07 server NetworkManager[337812]: <info>  [1653293767.5547] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:16:10 server NetworkManager[337812]: <info>  [1653293770.8388] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:16:21 server NetworkManager[337812]: <info>  [1653293781.0681] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:16:29 server NetworkManager[337812]: <info>  [1653293789.8312] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:16:30 server NetworkManager[337812]: <warn>  [1653293790.9670] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:16:30 server NetworkManager[337812]: <info>  [1653293790.9671] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:16:30 server NetworkManager[337812]: <info>  [1653293790.9751] device (wlp1s0): set-hw-addr: set MAC address to 42:9A:13:5F:3E:C4 (scanning)
+May 23 15:16:31 server NetworkManager[337812]: <warn>  [1653293791.2041] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:16:31 server NetworkManager[337812]: <info>  [1653293791.2045] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:16:31 server NetworkManager[337812]: <info>  [1653293791.2051] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:16:31 server NetworkManager[337812]: <info>  [1653293791.2057] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:31 server NetworkManager[337812]: <info>  [1653293791.2164] device (wlp1s0): supplicant interface state: interface_disabled -> disconnected
+May 23 15:16:32 server NetworkManager[337812]: <info>  [1653293792.9724] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:16:32 server NetworkManager[337812]: <info>  [1653293792.9725] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:32 server NetworkManager[337812]: <info>  [1653293792.9760] device (wlp1s0): set-hw-addr: set-cloned MAC address to 92:31:4E:57:B5:C6 (random)
+May 23 15:16:33 server NetworkManager[337812]: <info>  [1653293793.4447] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:33 server NetworkManager[337812]: <info>  [1653293793.4500] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:16:33 server NetworkManager[337812]: <info>  [1653293793.4529] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:33 server NetworkManager[337812]: <info>  [1653293793.4665] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:33 server NetworkManager[337812]: <info>  [1653293793.4725] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:33 server NetworkManager[337812]: <info>  [1653293793.4756] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:16:33 server NetworkManager[337812]: <info>  [1653293793.5335] device (wlp1s0): supplicant interface state: disconnected -> authenticating
+May 23 15:16:36 server NetworkManager[337812]: <info>  [1653293796.8279] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:16:47 server NetworkManager[337812]: <info>  [1653293807.0491] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:16:58 server NetworkManager[337812]: <warn>  [1653293818.9719] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:16:58 server NetworkManager[337812]: <info>  [1653293818.9751] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:16:59 server NetworkManager[337812]: <info>  [1653293819.2142] device (wlp1s0): set-hw-addr: set MAC address to A2:09:36:08:4D:00 (scanning)
+May 23 15:16:59 server NetworkManager[337812]: <warn>  [1653293819.4423] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:16:59 server NetworkManager[337812]: <info>  [1653293819.4433] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 15:16:59 server NetworkManager[337812]: <info>  [1653293819.4447] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:16:59 server NetworkManager[337812]: <info>  [1653293819.4588] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.2195] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.2197] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.2268] device (wlp1s0): set-hw-addr: set-cloned MAC address to 1A:6F:43:29:A7:C2 (random)
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.6909] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.6944] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.6945] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.6972] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.6990] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.7080] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.7131] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.7159] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:17:01 server NetworkManager[337812]: <info>  [1653293821.7688] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:17:04 server NetworkManager[337812]: <info>  [1653293824.7908] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:17:15 server NetworkManager[337812]: <info>  [1653293835.0136] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:17:16 server NetworkManager[337812]: <info>  [1653293836.7798] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:17:19 server NetworkManager[337812]: <info>  [1653293839.8318] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:17:26 server NetworkManager[337812]: <warn>  [1653293846.9681] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:17:26 server NetworkManager[337812]: <info>  [1653293846.9682] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:17:27 server NetworkManager[337812]: <info>  [1653293847.2052] device (wlp1s0): set-hw-addr: set MAC address to EE:7A:06:2C:5D:57 (scanning)
+May 23 15:17:27 server NetworkManager[337812]: <warn>  [1653293847.4350] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:17:27 server NetworkManager[337812]: <info>  [1653293847.4368] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:17:27 server NetworkManager[337812]: <info>  [1653293847.4380] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:17:27 server NetworkManager[337812]: <info>  [1653293847.4392] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.1961] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.1963] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.1996] device (wlp1s0): set-hw-addr: set-cloned MAC address to 3E:01:87:F1:46:49 (random)
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.4361] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.4368] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.4368] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.4396] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.4402] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.4408] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.4571] device (wlp1s0): supplicant interface state: inactive -> disconnected
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.4574] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 15:17:29 server NetworkManager[337812]: <info>  [1653293849.4971] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:17:32 server NetworkManager[337812]: <info>  [1653293852.7837] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:17:43 server NetworkManager[337812]: <info>  [1653293863.0154] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:17:54 server NetworkManager[337812]: <warn>  [1653293874.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:17:54 server NetworkManager[337812]: <info>  [1653293874.9681] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:17:55 server NetworkManager[337812]: <info>  [1653293875.4027] device (wlp1s0): set-hw-addr: set MAC address to 92:BF:5F:C4:97:9B (scanning)
+May 23 15:17:55 server NetworkManager[337812]: <warn>  [1653293875.6363] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:17:55 server NetworkManager[337812]: <info>  [1653293875.6372] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 15:17:55 server NetworkManager[337812]: <info>  [1653293875.6384] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:17:55 server NetworkManager[337812]: <info>  [1653293875.6478] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.0071] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.0078] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.0140] device (wlp1s0): set-hw-addr: set-cloned MAC address to 0E:8B:21:2C:B3:BF (random)
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.2412] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.2421] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.2422] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.2445] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.2451] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.2456] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.2537] device (wlp1s0): supplicant interface state: inactive -> disconnected
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.2663] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 15:21:52 server NetworkManager[337812]: <info>  [1653294112.3279] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:21:55 server NetworkManager[337812]: <info>  [1653294115.8007] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:22:06 server NetworkManager[337812]: <info>  [1653294126.2470] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:22:17 server NetworkManager[337812]: <warn>  [1653294137.9671] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:22:17 server NetworkManager[337812]: <info>  [1653294137.9672] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:22:18 server NetworkManager[337812]: <info>  [1653294138.2026] device (wlp1s0): set-hw-addr: set MAC address to C2:67:D2:AE:E1:AE (scanning)
+May 23 15:22:18 server NetworkManager[337812]: <warn>  [1653294138.4300] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:22:18 server NetworkManager[337812]: <info>  [1653294138.4303] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 15:22:18 server NetworkManager[337812]: <info>  [1653294138.4335] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:22:18 server NetworkManager[337812]: <info>  [1653294138.4478] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:22:49 server NetworkManager[337812]: <info>  [1653294169.9653] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:22:49 server NetworkManager[337812]: <info>  [1653294169.9663] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:22:50 server NetworkManager[337812]: <info>  [1653294170.2126] device (wlp1s0): set-hw-addr: set-cloned MAC address to 26:3E:5D:19:F7:C1 (random)
+May 23 15:22:50 server NetworkManager[337812]: <info>  [1653294170.4436] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:22:50 server NetworkManager[337812]: <info>  [1653294170.4445] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:22:50 server NetworkManager[337812]: <info>  [1653294170.4446] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:22:50 server NetworkManager[337812]: <info>  [1653294170.4455] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:22:50 server NetworkManager[337812]: <info>  [1653294170.4473] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:22:50 server NetworkManager[337812]: <info>  [1653294170.4478] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:22:50 server NetworkManager[337812]: <info>  [1653294170.4483] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:22:50 server NetworkManager[337812]: <info>  [1653294170.4573] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:22:50 server NetworkManager[337812]: <info>  [1653294170.5135] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:22:53 server NetworkManager[337812]: <info>  [1653294173.7836] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:23:04 server NetworkManager[337812]: <info>  [1653294184.0053] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:23:15 server NetworkManager[337812]: <warn>  [1653294195.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:23:15 server NetworkManager[337812]: <info>  [1653294195.9681] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:23:16 server NetworkManager[337812]: <info>  [1653294196.1998] device (wlp1s0): set-hw-addr: set MAC address to 52:F4:F1:C7:D2:03 (scanning)
+May 23 15:23:16 server NetworkManager[337812]: <warn>  [1653294196.4273] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:23:16 server NetworkManager[337812]: <info>  [1653294196.4275] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 15:23:16 server NetworkManager[337812]: <info>  [1653294196.4282] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:23:16 server NetworkManager[337812]: <info>  [1653294196.4369] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.1943] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.1945] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.1974] device (wlp1s0): set-hw-addr: set-cloned MAC address to 6E:57:6B:5E:E9:01 (random)
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.4779] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.4784] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.4784] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.4843] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.4913] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.4953] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.5040] device (wlp1s0): supplicant interface state: inactive -> disconnected
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.5052] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 15:23:18 server NetworkManager[337812]: <info>  [1653294198.5479] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:23:21 server NetworkManager[337812]: <info>  [1653294201.8153] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:23:32 server NetworkManager[337812]: <info>  [1653294212.0496] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:23:33 server NetworkManager[337812]: <info>  [1653294213.8202] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:23:36 server NetworkManager[337812]: <info>  [1653294216.4024] device (wlp1s0): state change: config -> deactivating (reason 'sleeping', sys-iface-state: 'managed')
+May 23 15:23:36 server NetworkManager[337812]: <info>  [1653294216.7373] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:23:36 server NetworkManager[337812]: <info>  [1653294216.7560] device (wlp1s0): state change: deactivating -> disconnected (reason 'sleeping', sys-iface-state: 'managed')
+May 23 15:23:36 server NetworkManager[337812]: <info>  [1653294216.7648] device (wlp1s0): set-hw-addr: set MAC address to 3E:26:A1:78:BF:F2 (scanning)
+May 23 15:23:37 server NetworkManager[337812]: <info>  [1653294217.0026] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:23:37 server NetworkManager[337812]: <info>  [1653294217.0110] device (wlp1s0): supplicant interface state: interface_disabled -> disconnected
+May 23 15:23:37 server NetworkManager[337812]: <info>  [1653294217.0115] device (wlp1s0): state change: disconnected -> unmanaged (reason 'sleeping', sys-iface-state: 'managed')
+May 23 15:23:37 server NetworkManager[337812]: <info>  [1653294217.0192] device (wlp1s0): set-hw-addr: reset MAC address to 70:8B:CD:DE:8A:C9 (unmanage)
+May 23 15:23:42 server NetworkManager[337812]: <info>  [1653294222.9349] device (wlp1s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+May 23 15:23:42 server NetworkManager[337812]: <info>  [1653294222.9809] device (wlp1s0): supplicant interface state: internal-starting -> disconnected
+May 23 15:23:42 server NetworkManager[337812]: <info>  [1653294222.9840] device (wlp1s0): state change: unavailable -> disconnected (reason 'supplicant-available', sys-iface-state: 'managed')
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.0066] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.0105] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.0246] device (wlp1s0): set-hw-addr: set-cloned MAC address to 62:C7:E7:5D:08:58 (random)
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.2532] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.2544] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.2570] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.2587] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.2601] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.2627] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.2639] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.2658] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:23:45 server NetworkManager[337812]: <info>  [1653294225.3104] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:23:48 server NetworkManager[337812]: <info>  [1653294228.7992] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:23:48 server NetworkManager[337812]: <info>  [1653294228.9001] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:23:50 server NetworkManager[337812]: <info>  [1653294230.6596] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:23:53 server NetworkManager[337812]: <info>  [1653294233.8157] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:23:54 server NetworkManager[337812]: <info>  [1653294234.5492] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:23:56 server NetworkManager[337812]: <info>  [1653294236.3229] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:23:59 server NetworkManager[337812]: <info>  [1653294239.8305] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:24:01 server NetworkManager[337812]: <info>  [1653294241.0530] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:24:02 server NetworkManager[337812]: <info>  [1653294242.8105] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:24:05 server NetworkManager[337812]: <info>  [1653294245.7979] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:24:10 server NetworkManager[337812]: <info>  [1653294250.4608] device (wlp1s0): state change: config -> deactivating (reason 'new-activation', sys-iface-state: 'managed')
+May 23 15:24:10 server NetworkManager[337812]: <info>  [1653294250.4770] device (wlp1s0): disconnecting for new activation request.
+May 23 15:24:10 server NetworkManager[337812]: <warn>  [1653294250.5370] device (wlp1s0): Deactivation failed: GDBus.Error:fi.w1.wpa_supplicant1.NotConnected: This interface is not connected
+May 23 15:24:10 server NetworkManager[337812]: <info>  [1653294250.5372] device (wlp1s0): state change: deactivating -> disconnected (reason 'new-activation', sys-iface-state: 'managed')
+May 23 15:24:10 server NetworkManager[337812]: <info>  [1653294250.7735] device (wlp1s0): set-hw-addr: set MAC address to FA:17:C9:C0:C1:DB (scanning)
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.0066] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.0115] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.0127] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.0141] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.0383] device (wlp1s0): set-hw-addr: set-cloned MAC address to 02:A2:9C:EC:79:D0 (random)
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.2681] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.2696] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.2702] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.2716] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.2743] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.2847] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.2872] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.2952] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:24:11 server NetworkManager[337812]: <info>  [1653294251.3512] device (wlp1s0): supplicant interface state: inactive -> scanning
+May 23 15:24:13 server NetworkManager[337812]: <info>  [1653294253.1169] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:24:15 server NetworkManager[337812]: <info>  [1653294255.8315] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:24:26 server NetworkManager[337812]: <info>  [1653294266.2877] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:24:28 server NetworkManager[337812]: <info>  [1653294268.0601] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:24:30 server NetworkManager[337812]: <info>  [1653294270.7847] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:24:36 server NetworkManager[337812]: <warn>  [1653294276.9685] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:24:36 server NetworkManager[337812]: <info>  [1653294276.9690] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:24:37 server NetworkManager[337812]: <info>  [1653294277.2221] device (wlp1s0): set-hw-addr: set MAC address to 66:AB:5F:52:88:49 (scanning)
+May 23 15:24:37 server NetworkManager[337812]: <warn>  [1653294277.4502] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:24:37 server NetworkManager[337812]: <info>  [1653294277.4519] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:24:37 server NetworkManager[337812]: <info>  [1653294277.4525] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:24:37 server NetworkManager[337812]: <info>  [1653294277.4649] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.2204] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.2206] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.2281] device (wlp1s0): set-hw-addr: set-cloned MAC address to 72:28:28:01:22:EB (random)
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.4553] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.4558] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.4559] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.4582] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.4588] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.4593] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.4703] device (wlp1s0): supplicant interface state: inactive -> disconnected
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.4706] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 15:24:39 server NetworkManager[337812]: <info>  [1653294279.5310] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:24:42 server NetworkManager[337812]: <info>  [1653294282.8420] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:24:53 server NetworkManager[337812]: <info>  [1653294293.3024] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:24:55 server NetworkManager[337812]: <info>  [1653294295.0761] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:24:57 server NetworkManager[337812]: <info>  [1653294297.8179] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:25:04 server NetworkManager[337812]: <warn>  [1653294304.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:25:04 server NetworkManager[337812]: <info>  [1653294304.9680] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:25:05 server NetworkManager[337812]: <info>  [1653294305.2049] device (wlp1s0): set-hw-addr: set MAC address to 3E:A0:CF:98:F0:CE (scanning)
+May 23 15:25:05 server NetworkManager[337812]: <warn>  [1653294305.4340] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:25:05 server NetworkManager[337812]: <info>  [1653294305.4356] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:25:05 server NetworkManager[337812]: <info>  [1653294305.4372] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:05 server NetworkManager[337812]: <info>  [1653294305.4399] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.2072] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.2074] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.2145] device (wlp1s0): set-hw-addr: set-cloned MAC address to EE:F0:27:E3:D2:97 (random)
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.6810] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.6826] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.6832] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.6850] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.6873] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.6878] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.6883] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.6955] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:25:07 server NetworkManager[337812]: <info>  [1653294307.7533] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:25:10 server NetworkManager[337812]: <info>  [1653294310.8082] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:25:21 server NetworkManager[337812]: <info>  [1653294321.0379] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:25:22 server NetworkManager[337812]: <info>  [1653294322.8088] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:25:25 server NetworkManager[337812]: <info>  [1653294325.7826] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:25:32 server NetworkManager[337812]: <warn>  [1653294332.9679] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:25:32 server NetworkManager[337812]: <info>  [1653294332.9680] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:25:33 server NetworkManager[337812]: <info>  [1653294333.3253] device (wlp1s0): set-hw-addr: set MAC address to 66:5F:AD:20:51:A0 (scanning)
+May 23 15:25:33 server NetworkManager[337812]: <warn>  [1653294333.5546] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:25:33 server NetworkManager[337812]: <info>  [1653294333.5573] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:25:33 server NetworkManager[337812]: <info>  [1653294333.5594] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:33 server NetworkManager[337812]: <info>  [1653294333.5635] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.3408] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.3469] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.3616] device (wlp1s0): set-hw-addr: set-cloned MAC address to BE:91:61:2E:22:0F (random)
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.5926] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.5937] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.5937] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.5946] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.5966] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.5972] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.5979] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.5990] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:25:35 server NetworkManager[337812]: <info>  [1653294335.6690] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:25:38 server NetworkManager[337812]: <info>  [1653294338.8401] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:25:49 server NetworkManager[337812]: <info>  [1653294349.0683] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:25:50 server NetworkManager[337812]: <info>  [1653294350.8414] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:25:53 server NetworkManager[337812]: <info>  [1653294353.8157] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:26:00 server NetworkManager[337812]: <warn>  [1653294360.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:26:00 server NetworkManager[337812]: <info>  [1653294360.9681] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:26:01 server NetworkManager[337812]: <info>  [1653294361.1978] device (wlp1s0): set-hw-addr: set MAC address to 82:BC:75:6B:00:39 (scanning)
+May 23 15:26:01 server NetworkManager[337812]: <warn>  [1653294361.4260] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:26:01 server NetworkManager[337812]: <info>  [1653294361.4263] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:26:01 server NetworkManager[337812]: <info>  [1653294361.4269] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:01 server NetworkManager[337812]: <info>  [1653294361.4330] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.2990] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.2994] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.5304] device (wlp1s0): set-hw-addr: set-cloned MAC address to EE:F7:FB:82:9D:63 (random)
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.7582] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.7588] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.7588] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.7596] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.7618] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.7623] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.7628] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.7739] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:26:15 server NetworkManager[337812]: <info>  [1653294375.8305] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:26:18 server NetworkManager[337812]: <info>  [1653294378.7827] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:26:22 server NetworkManager[337812]: <info>  [1653294382.5681] device (wlp1s0): disconnecting for new activation request.
+May 23 15:26:22 server NetworkManager[337812]: <info>  [1653294382.5682] device (wlp1s0): state change: config -> deactivating (reason 'new-activation', sys-iface-state: 'managed')
+May 23 15:26:22 server NetworkManager[337812]: <warn>  [1653294382.9558] device (wlp1s0): Deactivation failed: GDBus.Error:fi.w1.wpa_supplicant1.NotConnected: This interface is not connected
+May 23 15:26:22 server NetworkManager[337812]: <info>  [1653294382.9561] device (wlp1s0): state change: deactivating -> disconnected (reason 'new-activation', sys-iface-state: 'managed')
+May 23 15:26:23 server NetworkManager[337812]: <info>  [1653294383.1861] device (wlp1s0): set-hw-addr: set MAC address to 7A:6A:D6:61:19:95 (scanning)
+May 23 15:26:23 server NetworkManager[337812]: <info>  [1653294383.4147] device (wlp1s0): Activation: starting connection 'TP-LINK_5G' (5b1ac0ca-eac7-472e-921c-497211b2700b)
+May 23 15:26:23 server NetworkManager[337812]: <info>  [1653294383.4155] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:26:23 server NetworkManager[337812]: <info>  [1653294383.4161] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:23 server NetworkManager[337812]: <info>  [1653294383.4187] device (wlp1s0): set-hw-addr: reset MAC address to 70:8B:CD:DE:8A:C9 (preserve)
+May 23 15:26:23 server NetworkManager[337812]: <info>  [1653294383.6474] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:23 server NetworkManager[337812]: <info>  [1653294383.6483] device (wlp1s0): Activation: (wifi) access point 'TP-LINK_5G' has security, but secrets are required.
+May 23 15:26:23 server NetworkManager[337812]: <info>  [1653294383.6483] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:23 server NetworkManager[337812]: <info>  [1653294383.6569] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:26:31 server NetworkManager[337812]: <info>  [1653294391.8323] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:31 server NetworkManager[337812]: <info>  [1653294391.8331] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:31 server NetworkManager[337812]: <info>  [1653294391.8341] device (wlp1s0): Activation: (wifi) connection 'TP-LINK_5G' has security, and secrets exist.  No new secrets needed.
+May 23 15:26:32 server NetworkManager[337812]: <info>  [1653294392.1126] device (wlp1s0): supplicant interface state: inactive -> scanning
+May 23 15:26:33 server NetworkManager[337812]: <info>  [1653294393.8791] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:26:36 server NetworkManager[337812]: <info>  [1653294396.8237] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:26:47 server NetworkManager[337812]: <info>  [1653294407.0495] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:26:48 server NetworkManager[337812]: <info>  [1653294408.8213] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:26:51 server NetworkManager[337812]: <info>  [1653294411.7829] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:26:56 server NetworkManager[337812]: <warn>  [1653294416.9679] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:26:56 server NetworkManager[337812]: <info>  [1653294416.9680] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:26:57 server NetworkManager[337812]: <info>  [1653294417.4358] device (wlp1s0): set-hw-addr: set MAC address to BA:22:8C:C1:54:6D (scanning)
+May 23 15:26:57 server NetworkManager[337812]: <warn>  [1653294417.6643] device (wlp1s0): Activation: failed for connection 'TP-LINK_5G'
+May 23 15:26:57 server NetworkManager[337812]: <info>  [1653294417.6646] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:26:57 server NetworkManager[337812]: <info>  [1653294417.6660] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:57 server NetworkManager[337812]: <info>  [1653294417.7758] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.4363] device (wlp1s0): Activation: starting connection 'TP-LINK_5G' (5b1ac0ca-eac7-472e-921c-497211b2700b)
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.4365] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.4566] device (wlp1s0): set-hw-addr: reset MAC address to 70:8B:CD:DE:8A:C9 (preserve)
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.6853] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.6864] device (wlp1s0): Activation: (wifi) access point 'TP-LINK_5G' has security, but secrets are required.
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.6865] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.6876] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.6895] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.6901] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.6906] device (wlp1s0): Activation: (wifi) connection 'TP-LINK_5G' has security, and secrets exist.  No new secrets needed.
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.6974] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:26:59 server NetworkManager[337812]: <info>  [1653294419.7476] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:27:02 server NetworkManager[337812]: <info>  [1653294422.8085] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:27:03 server NetworkManager[337812]: <info>  [1653294423.5092] device (wlp1s0): state change: config -> deactivating (reason 'user-requested', sys-iface-state: 'managed')
+May 23 15:27:03 server NetworkManager[337812]: <warn>  [1653294423.5765] device (wlp1s0): Deactivation failed: GDBus.Error:fi.w1.wpa_supplicant1.NotConnected: This interface is not connected
+May 23 15:27:03 server NetworkManager[337812]: <info>  [1653294423.5766] device (wlp1s0): state change: deactivating -> disconnected (reason 'user-requested', sys-iface-state: 'managed')
+May 23 15:27:03 server NetworkManager[337812]: <info>  [1653294423.8120] device (wlp1s0): set-hw-addr: set MAC address to AA:C8:D6:2C:F1:E9 (scanning)
+May 23 15:27:04 server NetworkManager[337812]: <info>  [1653294424.0461] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:27:04 server NetworkManager[337812]: <info>  [1653294424.0579] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:27:46 server NetworkManager[337812]: <info>  [1653294466.9789] device (wlp1s0): Activation: starting connection 'sudo rm -rf /' (89d12864-f820-4783-83a3-212e8f2c4427)
+May 23 15:27:46 server NetworkManager[337812]: <info>  [1653294466.9900] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:27:47 server NetworkManager[337812]: <info>  [1653294467.4631] device (wlp1s0): set-hw-addr: reset MAC address to 70:8B:CD:DE:8A:C9 (preserve)
+May 23 15:27:47 server NetworkManager[337812]: <info>  [1653294467.9218] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:27:47 server NetworkManager[337812]: <info>  [1653294467.9223] device (wlp1s0): Activation: (wifi) access point 'sudo rm -rf /' has security, but secrets are required.
+May 23 15:27:47 server NetworkManager[337812]: <info>  [1653294467.9224] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:27:47 server NetworkManager[337812]: <info>  [1653294467.9301] device (wlp1s0): supplicant interface state: inactive -> disconnected
+May 23 15:27:47 server NetworkManager[337812]: <info>  [1653294467.9347] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 15:27:55 server NetworkManager[337812]: <info>  [1653294475.7685] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:27:55 server NetworkManager[337812]: <info>  [1653294475.7700] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:27:55 server NetworkManager[337812]: <info>  [1653294475.7724] device (wlp1s0): Activation: (wifi) connection 'sudo rm -rf /' has security, and secrets exist.  No new secrets needed.
+May 23 15:27:56 server NetworkManager[337812]: <info>  [1653294476.0417] device (wlp1s0): supplicant interface state: inactive -> scanning
+May 23 15:27:57 server NetworkManager[337812]: <info>  [1653294477.8673] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:28:00 server NetworkManager[337812]: <info>  [1653294480.7906] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:28:11 server NetworkManager[337812]: <info>  [1653294491.0202] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:28:12 server NetworkManager[337812]: <info>  [1653294492.7978] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:28:15 server NetworkManager[337812]: <info>  [1653294495.8317] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:28:20 server NetworkManager[337812]: <warn>  [1653294500.9679] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:28:20 server NetworkManager[337812]: <info>  [1653294500.9680] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:28:21 server NetworkManager[337812]: <info>  [1653294501.4363] device (wlp1s0): set-hw-addr: set MAC address to 8A:94:72:55:17:97 (scanning)
+May 23 15:28:21 server NetworkManager[337812]: <warn>  [1653294501.6638] device (wlp1s0): Activation: failed for connection 'sudo rm -rf /'
+May 23 15:28:21 server NetworkManager[337812]: <info>  [1653294501.6644] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:21 server NetworkManager[337812]: <info>  [1653294501.7682] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.4370] device (wlp1s0): Activation: starting connection 'sudo rm -rf /' (89d12864-f820-4783-83a3-212e8f2c4427)
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.4372] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.4539] device (wlp1s0): set-hw-addr: reset MAC address to 70:8B:CD:DE:8A:C9 (preserve)
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.6866] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.6890] device (wlp1s0): Activation: (wifi) access point 'sudo rm -rf /' has security, but secrets are required.
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.6890] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.6939] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.6941] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.7001] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.7035] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.7055] device (wlp1s0): Activation: (wifi) connection 'sudo rm -rf /' has security, and secrets exist.  No new secrets needed.
+May 23 15:28:23 server NetworkManager[337812]: <info>  [1653294503.7769] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:28:26 server NetworkManager[337812]: <info>  [1653294506.8179] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:28:37 server NetworkManager[337812]: <info>  [1653294517.2697] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:28:48 server NetworkManager[337812]: <warn>  [1653294528.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:28:48 server NetworkManager[337812]: <info>  [1653294528.9685] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:28:49 server NetworkManager[337812]: <info>  [1653294529.4475] device (wlp1s0): set-hw-addr: set MAC address to BE:83:0A:FD:9B:0A (scanning)
+May 23 15:28:49 server NetworkManager[337812]: <warn>  [1653294529.6806] device (wlp1s0): Activation: failed for connection 'sudo rm -rf /'
+May 23 15:28:49 server NetworkManager[337812]: <info>  [1653294529.6844] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 15:28:49 server NetworkManager[337812]: <info>  [1653294529.6847] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:28:49 server NetworkManager[337812]: <info>  [1653294529.6853] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.4541] device (wlp1s0): Activation: starting connection 'sudo rm -rf /' (89d12864-f820-4783-83a3-212e8f2c4427)
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.4543] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.4573] device (wlp1s0): set-hw-addr: reset MAC address to 70:8B:CD:DE:8A:C9 (preserve)
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.6849] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.6855] device (wlp1s0): Activation: (wifi) access point 'sudo rm -rf /' has security, but secrets are required.
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.6855] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.6864] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.6882] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.6887] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.6892] device (wlp1s0): Activation: (wifi) connection 'sudo rm -rf /' has security, and secrets exist.  No new secrets needed.
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.6998] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:28:51 server NetworkManager[337812]: <info>  [1653294531.7538] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:28:53 server NetworkManager[337812]: <info>  [1653294533.8504] device (wlp1s0): state change: config -> deactivating (reason 'unmanaged', sys-iface-state: 'managed')
+May 23 15:28:53 server NetworkManager[337812]: <info>  [1653294533.9505] device (wlp1s0): state change: deactivating -> unmanaged (reason 'removed', sys-iface-state: 'managed')
+May 23 15:28:55 server NetworkManager[369079]: <info>  [1653294535.2472] device (wlp1s0): driver supports Access Point (AP) mode
+May 23 15:28:55 server NetworkManager[369079]: <info>  [1653294535.2538] manager: (wlp1s0): new 802.11 Wi-Fi device (/org/freedesktop/NetworkManager/Devices/2)
+May 23 15:28:55 server NetworkManager[369079]: <info>  [1653294535.2618] device (wlp1s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+May 23 15:28:55 server NetworkManager[369079]: <info>  [1653294535.4956] device (wlp1s0): set-hw-addr: set MAC address to 8E:3B:80:5B:EC:CB (scanning)
+May 23 15:28:55 server NetworkManager[369079]: <info>  [1653294535.9754] device (wlp1s0): supplicant interface state: internal-starting -> disconnected
+May 23 15:28:56 server NetworkManager[369079]: <info>  [1653294536.0255] device (wlp1s0): state change: unavailable -> disconnected (reason 'supplicant-available', sys-iface-state: 'managed')
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.0925] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.0955] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.1080] device (wlp1s0): set-hw-addr: set-cloned MAC address to 4E:CB:88:B0:FC:B5 (random)
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.3367] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.3382] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.3474] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.3577] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.3589] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.3615] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.3626] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.3648] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:28:58 server NetworkManager[369079]: <info>  [1653294538.4203] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:29:01 server NetworkManager[369079]: <info>  [1653294541.7845] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:29:01 server NetworkManager[369079]: <info>  [1653294541.8844] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:29:03 server NetworkManager[369079]: <info>  [1653294543.6547] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.1401] device (wlp1s0): disconnecting for new activation request.
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.1402] device (wlp1s0): state change: config -> deactivating (reason 'new-activation', sys-iface-state: 'managed')
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.2086] device (wlp1s0): state change: deactivating -> disconnected (reason 'new-activation', sys-iface-state: 'managed')
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.2114] device (wlp1s0): set-hw-addr: set MAC address to CA:E2:D3:6E:04:96 (scanning)
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.4407] device (wlp1s0): Activation: starting connection 'sudo rm -rf /' (89d12864-f820-4783-83a3-212e8f2c4427)
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.4415] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.4462] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.4640] device (wlp1s0): set-hw-addr: reset MAC address to 70:8B:CD:DE:8A:C9 (preserve)
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.6924] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.6948] device (wlp1s0): Activation: (wifi) access point 'sudo rm -rf /' has security, but secrets are required.
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.6949] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.6959] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.6977] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.6982] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.6988] device (wlp1s0): Activation: (wifi) connection 'sudo rm -rf /' has security, and secrets exist.  No new secrets needed.
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.7069] device (wlp1s0): supplicant interface state: interface_disabled -> disconnected
+May 23 15:29:06 server NetworkManager[369079]: <info>  [1653294546.7683] device (wlp1s0): supplicant interface state: disconnected -> authenticating
+May 23 15:29:09 server NetworkManager[369079]: <info>  [1653294549.8265] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:29:10 server NetworkManager[369079]: <info>  [1653294550.5521] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:29:12 server NetworkManager[369079]: <info>  [1653294552.3205] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:29:15 server NetworkManager[369079]: <info>  [1653294555.8019] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:29:17 server NetworkManager[369079]: <info>  [1653294557.0258] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:29:31 server NetworkManager[369079]: <warn>  [1653294571.9670] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:29:31 server NetworkManager[369079]: <info>  [1653294571.9675] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:29:31 server NetworkManager[369079]: <info>  [1653294571.9792] device (wlp1s0): set-hw-addr: set MAC address to FA:96:DC:F8:0A:44 (scanning)
+May 23 15:29:32 server NetworkManager[369079]: <warn>  [1653294572.4584] device (wlp1s0): Activation: failed for connection 'sudo rm -rf /'
+May 23 15:29:32 server NetworkManager[369079]: <info>  [1653294572.4588] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 15:29:32 server NetworkManager[369079]: <info>  [1653294572.4593] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:29:32 server NetworkManager[369079]: <info>  [1653294572.4760] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.2530] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.2533] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.2676] device (wlp1s0): set-hw-addr: set-cloned MAC address to 2E:CA:02:BA:44:40 (random)
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.4963] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.4969] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.4969] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.4978] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.4995] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.5001] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.5006] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.5119] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:29:34 server NetworkManager[369079]: <info>  [1653294574.5937] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:29:37 server NetworkManager[369079]: <info>  [1653294577.7823] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:29:43 server NetworkManager[369079]: <info>  [1653294583.1114] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:29:49 server NetworkManager[369079]: <info>  [1653294589.8851] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:29:52 server NetworkManager[369079]: <info>  [1653294592.7907] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:29:59 server NetworkManager[369079]: <warn>  [1653294599.9669] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:29:59 server NetworkManager[369079]: <info>  [1653294599.9671] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:30:00 server NetworkManager[369079]: <info>  [1653294600.4535] device (wlp1s0): set-hw-addr: set MAC address to 7E:D2:C4:7E:F2:27 (scanning)
+May 23 15:30:00 server NetworkManager[369079]: <warn>  [1653294600.6875] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:30:00 server NetworkManager[369079]: <info>  [1653294600.6890] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:30:00 server NetworkManager[369079]: <info>  [1653294600.6971] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:30:00 server NetworkManager[369079]: <info>  [1653294600.7066] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.4625] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.4627] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.4685] device (wlp1s0): set-hw-addr: set-cloned MAC address to CA:A6:88:51:EE:C1 (random)
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.6965] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.6977] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.6984] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.7003] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.7031] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.7078] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.7090] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.7102] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:30:02 server NetworkManager[369079]: <info>  [1653294602.7754] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:30:05 server NetworkManager[369079]: <info>  [1653294605.8409] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:30:16 server NetworkManager[369079]: <info>  [1653294616.2960] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:30:17 server NetworkManager[369079]: <info>  [1653294617.0587] device (wlp1s0): state change: config -> deactivating (reason 'user-requested', sys-iface-state: 'managed')
+May 23 15:30:17 server NetworkManager[369079]: <warn>  [1653294617.1432] device (wlp1s0): Deactivation failed: GDBus.Error:fi.w1.wpa_supplicant1.NotConnected: This interface is not connected
+May 23 15:30:17 server NetworkManager[369079]: <info>  [1653294617.1437] device (wlp1s0): state change: deactivating -> disconnected (reason 'user-requested', sys-iface-state: 'managed')
+May 23 15:30:17 server NetworkManager[369079]: <info>  [1653294617.1482] device (wlp1s0): set-hw-addr: set MAC address to 5A:8B:47:01:15:AD (scanning)
+May 23 15:30:17 server NetworkManager[369079]: <info>  [1653294617.6197] device (wlp1s0): supplicant interface state: scanning -> interface_disabled
+May 23 15:30:17 server NetworkManager[369079]: <info>  [1653294617.6335] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:30:21 server NetworkManager[369079]: <info>  [1653294621.6886] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:30:21 server NetworkManager[369079]: <info>  [1653294621.6893] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:21 server NetworkManager[369079]: <info>  [1653294621.9269] device (wlp1s0): set-hw-addr: set-cloned MAC address to EA:18:2A:17:62:4B (random)
+May 23 15:30:22 server NetworkManager[369079]: <info>  [1653294622.1543] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:22 server NetworkManager[369079]: <info>  [1653294622.1548] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:30:22 server NetworkManager[369079]: <info>  [1653294622.1549] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:22 server NetworkManager[369079]: <info>  [1653294622.1557] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:30:22 server NetworkManager[369079]: <info>  [1653294622.1573] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:22 server NetworkManager[369079]: <info>  [1653294622.1578] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:22 server NetworkManager[369079]: <info>  [1653294622.1583] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:30:22 server NetworkManager[369079]: <info>  [1653294622.1663] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:30:22 server NetworkManager[369079]: <info>  [1653294622.2235] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:30:24 server NetworkManager[369079]: <info>  [1653294624.7839] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:30:25 server NetworkManager[369079]: <info>  [1653294625.8956] device (wlp1s0): state change: config -> deactivating (reason 'new-activation', sys-iface-state: 'managed')
+May 23 15:30:25 server NetworkManager[369079]: <info>  [1653294625.8975] device (wlp1s0): disconnecting for new activation request.
+May 23 15:30:25 server NetworkManager[369079]: <warn>  [1653294625.9082] device (wlp1s0): Deactivation failed: GDBus.Error:fi.w1.wpa_supplicant1.NotConnected: This interface is not connected
+May 23 15:30:25 server NetworkManager[369079]: <info>  [1653294625.9083] device (wlp1s0): state change: deactivating -> disconnected (reason 'new-activation', sys-iface-state: 'managed')
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.1379] device (wlp1s0): set-hw-addr: set MAC address to B2:F6:59:F5:62:1F (scanning)
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.3664] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.3672] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.3677] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.3709] device (wlp1s0): set-hw-addr: set-cloned MAC address to CE:57:B7:70:B0:FE (random)
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.6137] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.6143] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.6144] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.6152] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.6174] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.6179] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:26 server NetworkManager[369079]: <info>  [1653294626.6217] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:30:28 server NetworkManager[369079]: <info>  [1653294628.9172] device (wlp1s0): supplicant interface state: inactive -> scanning
+May 23 15:30:30 server NetworkManager[369079]: <info>  [1653294630.6827] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:30:33 server NetworkManager[369079]: <info>  [1653294633.7982] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:30:44 server NetworkManager[369079]: <info>  [1653294644.0235] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:30:45 server NetworkManager[369079]: <info>  [1653294645.7896] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:30:48 server NetworkManager[369079]: <info>  [1653294648.7922] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:30:51 server NetworkManager[369079]: <warn>  [1653294651.9684] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:30:51 server NetworkManager[369079]: <info>  [1653294651.9688] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:30:52 server NetworkManager[369079]: <info>  [1653294652.2156] device (wlp1s0): set-hw-addr: set MAC address to 9E:D8:4E:B8:4A:19 (scanning)
+May 23 15:30:52 server NetworkManager[369079]: <warn>  [1653294652.4444] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:30:52 server NetworkManager[369079]: <info>  [1653294652.4480] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:30:52 server NetworkManager[369079]: <info>  [1653294652.4496] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:52 server NetworkManager[369079]: <info>  [1653294652.4530] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.2161] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.2163] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.2225] device (wlp1s0): set-hw-addr: set-cloned MAC address to 16:2A:3D:AE:EE:F3 (random)
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.4506] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.4520] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.4526] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.4538] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.4569] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.4618] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.4630] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.4801] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:30:54 server NetworkManager[369079]: <info>  [1653294654.5266] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:30:55 server NetworkManager[369079]: <info>  [1653294655.8732] device (wlp1s0): state change: config -> deactivating (reason 'user-requested', sys-iface-state: 'managed')
+May 23 15:30:55 server NetworkManager[369079]: <info>  [1653294655.9438] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:30:55 server NetworkManager[369079]: <info>  [1653294655.9441] device (wlp1s0): state change: deactivating -> disconnected (reason 'user-requested', sys-iface-state: 'managed')
+May 23 15:30:55 server NetworkManager[369079]: <info>  [1653294655.9504] device (wlp1s0): set-hw-addr: set MAC address to 56:45:F3:5D:E1:3B (scanning)
+May 23 15:30:56 server NetworkManager[369079]: <info>  [1653294656.1838] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:30:56 server NetworkManager[369079]: <info>  [1653294656.2048] device (wlp1s0): supplicant interface state: interface_disabled -> disconnected
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.0403] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.0420] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.0622] device (wlp1s0): set-hw-addr: set-cloned MAC address to 6E:D8:B2:7B:CD:0C (random)
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.5714] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.5724] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.5725] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.5781] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.5821] device (wlp1s0): supplicant interface state: interface_disabled -> disconnected
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.5930] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.5959] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.5978] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:31:03 server NetworkManager[369079]: <info>  [1653294663.6459] device (wlp1s0): supplicant interface state: disconnected -> authenticating
+May 23 15:31:06 server NetworkManager[369079]: <info>  [1653294666.8386] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:31:17 server NetworkManager[369079]: <info>  [1653294677.0700] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:31:18 server NetworkManager[369079]: <info>  [1653294678.8285] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:31:21 server NetworkManager[369079]: <info>  [1653294681.8149] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:31:28 server NetworkManager[369079]: <warn>  [1653294688.9684] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:31:28 server NetworkManager[369079]: <info>  [1653294688.9685] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:31:29 server NetworkManager[369079]: <info>  [1653294689.2115] device (wlp1s0): set-hw-addr: set MAC address to 4A:B8:E5:6D:5E:7D (scanning)
+May 23 15:31:29 server NetworkManager[369079]: <warn>  [1653294689.4429] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:31:29 server NetworkManager[369079]: <info>  [1653294689.4457] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:31:29 server NetworkManager[369079]: <info>  [1653294689.4463] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:29 server NetworkManager[369079]: <info>  [1653294689.4597] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.2149] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.2151] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.2178] device (wlp1s0): set-hw-addr: set-cloned MAC address to 1A:E9:CA:61:E9:CC (random)
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.4785] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.4796] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.4797] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.4853] device (wlp1s0): supplicant interface state: inactive -> disconnected
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.4856] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.4869] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.4875] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.4910] device (wlp1s0): supplicant interface state: disconnected -> inactive
+May 23 15:31:31 server NetworkManager[369079]: <info>  [1653294691.5435] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:31:34 server NetworkManager[369079]: <info>  [1653294694.8070] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:31:45 server NetworkManager[369079]: <info>  [1653294705.0330] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:31:46 server NetworkManager[369079]: <info>  [1653294706.7962] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:31:49 server NetworkManager[369079]: <info>  [1653294709.7837] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:31:56 server NetworkManager[369079]: <warn>  [1653294716.9679] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:31:56 server NetworkManager[369079]: <info>  [1653294716.9680] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:31:57 server NetworkManager[369079]: <info>  [1653294717.2035] device (wlp1s0): set-hw-addr: set MAC address to AA:75:E0:17:3C:01 (scanning)
+May 23 15:31:57 server NetworkManager[369079]: <warn>  [1653294717.4327] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:31:57 server NetworkManager[369079]: <info>  [1653294717.4349] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:31:57 server NetworkManager[369079]: <info>  [1653294717.4363] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:57 server NetworkManager[369079]: <info>  [1653294717.4504] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.2072] device (wlp1s0): Activation: starting connection 'TP-LINK' (f4019944-10fe-462c-9bcc-9297b2a2183d)
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.2075] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.2140] device (wlp1s0): set-hw-addr: set-cloned MAC address to 46:9F:E9:A8:AE:90 (random)
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.4424] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.4511] device (wlp1s0): Activation: (wifi) access point 'TP-LINK' has security, but secrets are required.
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.4517] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.4543] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.4554] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.4643] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.4668] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.4731] device (wlp1s0): Activation: (wifi) connection 'TP-LINK' has security, and secrets exist.  No new secrets needed.
+May 23 15:31:59 server NetworkManager[369079]: <info>  [1653294719.5391] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:32:02 server NetworkManager[369079]: <info>  [1653294722.7842] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:32:13 server NetworkManager[369079]: <info>  [1653294733.0185] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:32:14 server NetworkManager[369079]: <info>  [1653294734.7896] device (wlp1s0): supplicant interface state: scanning -> authenticating
+May 23 15:32:17 server NetworkManager[369079]: <info>  [1653294737.8147] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:32:24 server NetworkManager[369079]: <warn>  [1653294744.9680] device (wlp1s0): Activation: (wifi) association took too long, failing activation
+May 23 15:32:24 server NetworkManager[369079]: <info>  [1653294744.9681] device (wlp1s0): state change: config -> failed (reason 'ssid-not-found', sys-iface-state: 'managed')
+May 23 15:32:25 server NetworkManager[369079]: <info>  [1653294745.2180] device (wlp1s0): set-hw-addr: set MAC address to DA:1F:A1:1E:44:C7 (scanning)
+May 23 15:32:25 server NetworkManager[369079]: <warn>  [1653294745.4484] device (wlp1s0): Activation: failed for connection 'TP-LINK'
+May 23 15:32:25 server NetworkManager[369079]: <info>  [1653294745.4510] device (wlp1s0): supplicant interface state: disconnected -> interface_disabled
+May 23 15:32:25 server NetworkManager[369079]: <info>  [1653294745.4524] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:32:25 server NetworkManager[369079]: <info>  [1653294745.4538] device (wlp1s0): state change: failed -> disconnected (reason 'none', sys-iface-state: 'managed')
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.2182] device (wlp1s0): Activation: starting connection 'sudo rm -rf /' (89d12864-f820-4783-83a3-212e8f2c4427)
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.2186] device (wlp1s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.2338] device (wlp1s0): set-hw-addr: reset MAC address to 70:8B:CD:DE:8A:C9 (preserve)
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.4618] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.4623] device (wlp1s0): Activation: (wifi) access point 'sudo rm -rf /' has security, but secrets are required.
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.4624] device (wlp1s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.4636] device (wlp1s0): supplicant interface state: inactive -> interface_disabled
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.4655] device (wlp1s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.4661] device (wlp1s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.4666] device (wlp1s0): Activation: (wifi) connection 'sudo rm -rf /' has security, and secrets exist.  No new secrets needed.
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.4702] device (wlp1s0): supplicant interface state: interface_disabled -> inactive
+May 23 15:32:27 server NetworkManager[369079]: <info>  [1653294747.5461] device (wlp1s0): supplicant interface state: inactive -> authenticating
+May 23 15:32:30 server NetworkManager[369079]: <info>  [1653294750.8066] device (wlp1s0): supplicant interface state: authenticating -> disconnected
+May 23 15:32:41 server NetworkManager[369079]: <info>  [1653294761.0345] device (wlp1s0): supplicant interface state: disconnected -> scanning
+May 23 15:32:42 server NetworkManager[369079]: <info>  [1653294762.8028] device (wlp1s0): supplicant interface state: scanning -> authenticating
